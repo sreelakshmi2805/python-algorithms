@@ -1,3 +1,4 @@
+#To find largest and second largest elements in an array
 def largest(arr):
     large=arr[0]
     sec_large=arr[0]
