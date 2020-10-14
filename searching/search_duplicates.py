@@ -1,3 +1,5 @@
+#search the key element in the list and to print index value of duplicate key element
+
 def search(list,key):
 	list1=[]
 	flag=False
@@ -11,6 +13,9 @@ def search(list,key):
 			print(i)
 	else:
 		print("element is not found")
+		
+		
+	
 list=[23,45,6,43,78,15,6,5]
 key=int(input("enter the key element"))
 search(list,key)
