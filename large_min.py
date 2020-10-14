@@ -1,3 +1,4 @@
+#To find the largest and smallest element in an array
 def large_small(arr):
     large=arr[0]
     small=arr[0]
